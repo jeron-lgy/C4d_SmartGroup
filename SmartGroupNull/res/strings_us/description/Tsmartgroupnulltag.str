@@ -1,0 +1,8 @@
+STRINGTABLE Tsmartgroupnulltag
+{
+    Tsmartgroupnulltag "Smart Group Select";
+    SGN_TAG_ENABLE "Enable Group";
+    SGN_TAG_SHOW_BOX "Show Box";
+    SGN_TAG_BOX_COLOR "Box Color";
+    SGN_TAG_PADDING "Box Padding";
+}
