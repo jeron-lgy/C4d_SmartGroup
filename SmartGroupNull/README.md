@@ -62,7 +62,7 @@ C:\Users\<you>\AppData\Roaming\Maxon\Maxon Cinema 4D 2025_*\plugins
 - Multi-selection is supported. Children from different groups are collapsed to
   their corresponding Nulls.
 - Objects outside Smart Groups stay selected normally.
-- Axis bottom-center placement uses the marked Null's current local orientation.
+- Axis bottom-center placement uses the world Y direction and world-space bounds.
 
 ## Notes
 
